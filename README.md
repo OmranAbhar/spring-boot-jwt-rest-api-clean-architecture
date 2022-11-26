@@ -1,7 +1,7 @@
 
 ```
-INSERT INTO public.user_tbl(
-	email, password, user_name)
+INSERT INTO 
+	public.user_tbl(email, password, user_name)
 	VALUES ( 'admin@admin.com', 'Gcwt8YVTqjqWKeRFGxQqnnv+pylE7C2WwSx9NXMhDsJzTf0aVo2PsiXN+Ujd3lFO', 'Admin');
   ```
   
